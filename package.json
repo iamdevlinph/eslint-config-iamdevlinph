@@ -1,5 +1,5 @@
 {
-  "name": "eslint-confg-iamdevlinph",
+  "name": "eslint-config-iamdevlinph",
   "version": "1.0.4",
   "description": "ESLint and Prettier Config by iamdevlinph",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix"
   },
-  "repository": "git@github.com:iamdevlinph/eslint-confg-iamdevlinph.git",
+  "repository": "git@github.com:iamdevlinph/eslint-config-iamdevlinph.git",
   "keywords": [
     "javascript",
     "react",
