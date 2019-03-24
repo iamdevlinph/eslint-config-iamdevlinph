@@ -55,6 +55,7 @@ module.exports = {
 1. Install [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 2. Press `Ctrl + ,` to open your `settings.json` then click on the `{}` on the upper right corner to enter the `.json` format.
+
 ![settings.json](./settings-json.jpg)
 
 And copy the settings below:
