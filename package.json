@@ -4,12 +4,10 @@
   "description": "ESLint and Prettier Config by iamdevlinph",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/iamdevlinph/eslint-confg-iamdevlinph.git"
-  },
+  "repository": "git@github.com:iamdevlinph/eslint-confg-iamdevlinph.git",
   "keywords": [
     "javascript",
     "react",
@@ -18,11 +16,7 @@
     "prettier"
   ],
   "author": "iamdevlinph <iamdevlinph@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/iamdevlinph/eslint-confg-iamdevlinph/issues"
-  },
-  "homepage": "https://github.com/iamdevlinph/eslint-confg-iamdevlinph#readme",
+  "license": "MIT",
   "devDependencies": {
     "babel-eslint": "10.0.1",
     "eslint": "5.15.3",
