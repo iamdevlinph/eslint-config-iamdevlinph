@@ -14,7 +14,10 @@ Works on:
 npx install-peerdeps --dev eslint-config-iamdevlinph
 ```
 
-3. Some dependencies will be added to your `devDependencies`
+Note: If you're using yarn `npx` and asks if you want to use it for the installation. At least on `npm -v 6.4.1`.
+
+
+3. Some dependencies will be added to your `devDependencies`.
 
 4. Create a `.eslintrc` file in the root of your project.
 ```
@@ -33,7 +36,7 @@ module.exports = {
 };
 ```
 
-5. Customize the configuration
+5. Customize the configuration.
 ```
 {
   "extends": [
@@ -49,6 +52,14 @@ module.exports = {
   },
 }
 
+```
+
+6. Add some scripts to your `package.json`.
+```
+"scripts": {
+  "lint": "eslint .",
+  "lint:fix": "eslint . --fix"
+}
 ```
 
 ## Using with VS Code
