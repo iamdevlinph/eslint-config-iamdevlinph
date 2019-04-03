@@ -62,6 +62,11 @@ module.exports = {
 }
 ```
 
+7. Create a `.eslintignore` beside `.eslintrc` and ignore the usual folders
+```
+**/node_modules/*
+```
+
 ## Using with VS Code
 1. Install [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
