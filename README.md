@@ -23,7 +23,7 @@ Note: If you're using yarn, `npx` will ask if you want to use it for the install
 ```
 {
   "extends": [
-    "iamdevlinph
+    "iamdevlinph"
   ]
 }
 ```
@@ -31,7 +31,7 @@ Or `.eslintrc.js`
 ```
 module.exports = {
   "extends": [
-    "iamdevlinph
+    "iamdevlinph"
   ],
 };
 ```
