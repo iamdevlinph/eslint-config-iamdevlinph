@@ -14,7 +14,7 @@ Works on:
 npx install-peerdeps --dev eslint-config-iamdevlinph
 ```
 
-Note: If you're using yarn `npx` and asks if you want to use it for the installation. At least on `npm -v 6.4.1`.
+Note: If you're using yarn, `npx` will ask if you want to use it for the installation. At least on `npm -v 6.4.1`.
 
 
 3. Some dependencies will be added to your `devDependencies`.
