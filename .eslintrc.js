@@ -22,6 +22,7 @@ module.exports = {
     }],
     "quotes": [2, "single"],
     "react/no-unescaped-entities": 0,
+    "react/no-typos": 1,
     "prettier/prettier": [
       "error",
       {
