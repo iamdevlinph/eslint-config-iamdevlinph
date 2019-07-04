@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-iamdevlinph",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "ESLint and Prettier Config by iamdevlinph",
   "main": "index.js",
   "scripts": {
