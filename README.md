@@ -1,5 +1,7 @@
 # ESLint and Prettier Configuration
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamdevlinph/eslint-config-iamdevlinph.svg)](https://greenkeeper.io/)
+
 ESLint and Prettier Configuration I use on VS Code. Inspired by [wesbos'](https://github.com/wesbos/eslint-config-wesbos)
 
 Works on:
